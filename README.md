@@ -13,10 +13,10 @@ Nam pellentesque pretium tortor, **elementum vestibulum** diam scelerisque vitae
 * Sed nunc enim, porttitor et aliquam et, consequat accumsan enim
 
 ## Table of Contents with Link
-* <a href="https://github.com/yokoacc/test-repo#scenario-1"> Scenario 1</a>
-* <a href="https://github.com/yokoacc/test-repo#scenario-2"> Scenario 2</a>
-* <a href="https://github.com/yokoacc/test-repo#scenario-3"> Scenario 3</a>
-* <a href="https://github.com/yokoacc/test-repo#affected-one"> Affected One</a>
+* <a href="https://github.com/yokokho/test-repo#scenario-1"> Scenario 1</a>
+* <a href="https://github.com/yokokho/test-repo#scenario-2"> Scenario 2</a>
+* <a href="https://github.com/yokokho/test-repo#scenario-3"> Scenario 3</a>
+* <a href="https://github.com/yokokho/test-repo#affected-one"> Affected One</a>
 
 ## Scenario 1
 ### First Attempt
