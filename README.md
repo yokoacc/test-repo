@@ -42,9 +42,13 @@ No | Method | Vendor | Affected
 1 | Content 1 | Content 2 | Content 3
 2 | Content 1 | Content 2 | Content 3
 3 | Content 1 | Content 2 | Content 3
+ |  |  | Content 3
+ |  |  | Content 3
+ |  |  | Content 3
 4 | Content 1 | Content 2 | Content 3
 5 | Content 1 | Content 2 | Content 3
 6 | Content 1 | Content 2 | Content 3
+7 | Content 1 | Content 2 | Content 3
 
 ## Extras
 Sample: ~~this~~ <br/><br/>
