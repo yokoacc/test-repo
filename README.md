@@ -40,10 +40,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet sit amet lor
 No | Method | Vendor | Affected
 -- | ------ | ------ | --------
 1. | Content 1 | Content 2 | Content 3
+-- | ------ | ------ | --------
 2. | Content 1 | Content 2 | Content 3
+-- | ------ | ------ | --------
 3. | Content 1 | Content 2 | Content 3
-   |           |           | Content 3
-   |           |           | Content 3
+-- | ------ | ------ | --------
 4. | Content 1 | Content 2 | Content 3
+-- | ------ | ------ | --------
 5. | Content 1 | Content 2 | Content 3
+-- | ------ | ------ | --------
 6. | Content 1 | Content 2 | Content 3
+
+## Extras
+Sample: ~~this~~ <br/><br/>
+Sample of Code: <br/>
+```
+Ut volutpat faucibus eros at congue. 
+   Etiam tempor sapien finibus pellentesque pretium. 
+      Proin porta sapien eget erat convallis, quis consequat ipsum ultricies.
+   Donec eu accumsan urna. Pellentesque venenatis dolor eu nunc ultrices auctor in eget ligula. 
+Sed id consectetur neque, nec volutpat mi.
+```
+
+![Test Picture](https://www.iconsdb.com/icons/preview/black/github-10-xxl.png)
