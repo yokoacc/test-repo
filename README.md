@@ -17,7 +17,7 @@ Nam pellentesque pretium tortor, **elementum vestibulum** diam scelerisque vitae
 * <a href="https://github.com/yokokho/test-repo#scenario-2"> Scenario 2</a>
 * <a href="https://github.com/yokokho/test-repo#scenario-3"> Scenario 3</a>
 * <a href="https://github.com/yokokho/test-repo#affected-one"> Affected One</a>
-* <a href="https://github.com/yokokho/test-repo/test-directory#another-readme.md"> Another Readme</a>
+* <a href="https://github.com/yokokho/test-repo/blob/master/test-directory/another-readme.md"> Another Readme</a>
 
 ## Scenario 1
 ### First Attempt
