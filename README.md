@@ -67,5 +67,3 @@ Sed id consectetur neque, nec volutpat mi.
 ```
 
 ![Test Picture](https://www.iconsdb.com/icons/preview/black/github-10-xxl.png)
-
-![circle](https://user-images.githubusercontent.com/13397042/52580606-4cfc1000-2e5b-11e9-88c6-4f515401ff9f.png)
