@@ -1,3 +1,5 @@
+## بسم الله الرحمن الرحيم
+
 ## Note
 This page is just a test page - (trying to learn the markdown at Github) <br/>
 
